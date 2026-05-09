@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-padel-club/
+demo-padel-club/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)

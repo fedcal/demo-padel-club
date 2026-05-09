@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Padel Club** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://padel-club.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-padel-club/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-padel-club/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-padel-club.git
-cd federico-demo-padel-club
+git clone https://github.com/fedcal/demo-padel-club.git
+cd demo-padel-club
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:padel-club
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-padel-club/
+→ https://fedcal.github.io/demo-padel-club/
 
 ## Hub demos Federico
 
