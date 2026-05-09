@@ -1,0 +1,48 @@
+{
+  "maestri": [
+    {
+      "id": 1,
+      "nome": "Luca Ferretti",
+      "ruolo": "Direttore Tecnico",
+      "certificazione": "Maestro FIT Nazionale",
+      "anniEsperienza": 15,
+      "bio": "Ex giocatore professionista con 10 anni nel circuito World Padel Tour. Fondatore del club, ha introdotto il padel a Milano nel 2010. Specializzato nella formazione agonistica e nel perfezionamento tecnico.",
+      "specialita": ["Tecnica avanzata", "Preparazione agonistica", "Formazione coach"],
+      "livelli": ["Principianti", "Intermedi", "Avanzati", "Agonisti"],
+      "lingue": ["Italiano", "Spagnolo", "Inglese"]
+    },
+    {
+      "id": 2,
+      "nome": "Sara Colombo",
+      "ruolo": "Maestra FIT",
+      "certificazione": "Maestra FIT Regionale",
+      "anniEsperienza": 8,
+      "bio": "Campionessa regionale Lombardia Under 30 per tre anni consecutivi. Specializzata nell'insegnamento ai principianti e nella tecnica del rovescio. Conduce tutti i corsi di gruppo del mercoledì e venerdì.",
+      "specialita": ["Principianti", "Rovescio e volée", "Corsi di gruppo"],
+      "livelli": ["Principianti", "Intermedi"],
+      "lingue": ["Italiano", "Inglese"]
+    },
+    {
+      "id": 3,
+      "nome": "Marco Vitale",
+      "ruolo": "Maestro FIT",
+      "certificazione": "Maestro FIT Nazionale",
+      "anniEsperienza": 12,
+      "bio": "Formatore federale con esperienze in Spagna e Argentina. Porta al club metodologie moderne di allenamento mutuate dal padel iberico. Esperto di preparazione tattica e analisi video.",
+      "specialita": ["Tattica avanzata", "Analisi video", "Preparazione fisica"],
+      "livelli": ["Intermedi", "Avanzati", "Agonisti"],
+      "lingue": ["Italiano", "Spagnolo"]
+    },
+    {
+      "id": 4,
+      "nome": "Elena Russo",
+      "ruolo": "Maestra FIT",
+      "certificazione": "Maestra FIT Provinciale",
+      "anniEsperienza": 5,
+      "bio": "Giovane talento del coaching padel lombardo. Specializzata nell'insegnamento a bambini e ragazzi 8-16 anni. Conduce il programma Junior del club con 30+ iscritti.",
+      "specialita": ["Padel Junior 8-16 anni", "Tecnica di base", "Divertimento e approccio al gioco"],
+      "livelli": ["Principianti", "Junior"],
+      "lingue": ["Italiano"]
+    }
+  ]
+}

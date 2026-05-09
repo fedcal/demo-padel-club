@@ -1,0 +1,120 @@
+{
+  "tariffe": {
+    "orarie": [
+      {
+        "id": "mattina-indoor",
+        "fascia": "Mattina",
+        "orario": "07:00 – 12:00",
+        "tipo": "indoor",
+        "prezzoOra": 20,
+        "giorni": "Lun–Ven"
+      },
+      {
+        "id": "pomeriggio-indoor",
+        "fascia": "Pomeriggio",
+        "orario": "12:00 – 18:00",
+        "tipo": "indoor",
+        "prezzoOra": 25,
+        "giorni": "Lun–Ven"
+      },
+      {
+        "id": "serale-indoor",
+        "fascia": "Serale",
+        "orario": "18:00 – 23:00",
+        "tipo": "indoor",
+        "prezzoOra": 35,
+        "giorni": "Lun–Ven"
+      },
+      {
+        "id": "weekend-indoor",
+        "fascia": "Weekend",
+        "orario": "08:00 – 22:00",
+        "tipo": "indoor",
+        "prezzoOra": 40,
+        "giorni": "Sab–Dom"
+      },
+      {
+        "id": "mattina-outdoor",
+        "fascia": "Mattina",
+        "orario": "07:00 – 12:00",
+        "tipo": "outdoor",
+        "prezzoOra": 18,
+        "giorni": "Lun–Ven"
+      },
+      {
+        "id": "pomeriggio-outdoor",
+        "fascia": "Pomeriggio",
+        "orario": "12:00 – 18:00",
+        "tipo": "outdoor",
+        "prezzoOra": 22,
+        "giorni": "Lun–Ven"
+      },
+      {
+        "id": "serale-outdoor",
+        "fascia": "Serale",
+        "orario": "18:00 – 23:00",
+        "tipo": "outdoor",
+        "prezzoOra": 28,
+        "giorni": "Lun–Ven"
+      },
+      {
+        "id": "weekend-outdoor",
+        "fascia": "Weekend",
+        "orario": "08:00 – 22:00",
+        "tipo": "outdoor",
+        "prezzoOra": 32,
+        "giorni": "Sab–Dom"
+      }
+    ],
+    "abbonamenti": [
+      {
+        "id": "base",
+        "nome": "Abbonamento Base",
+        "prezzo": 49,
+        "periodo": "mese",
+        "inclusi": ["4 ingressi/mese", "Sconto 10% su tariffe orarie", "Noleggio racchetta gratuito"]
+      },
+      {
+        "id": "pro",
+        "nome": "Abbonamento Pro",
+        "prezzo": 99,
+        "periodo": "mese",
+        "inclusi": ["10 ingressi/mese", "Sconto 15% su tariffe orarie", "Noleggio racchetta gratuito", "Accesso corsi di gruppo settimanali"]
+      },
+      {
+        "id": "unlimited",
+        "nome": "Abbonamento Unlimited",
+        "prezzo": 179,
+        "periodo": "mese",
+        "inclusi": ["Prenotazioni illimitate", "Sconto 20% su tariffe orarie", "Noleggio racchetta gratuito", "Corsi di gruppo illimitati", "Priorità prenotazione tornei"]
+      }
+    ],
+    "servizi": [
+      {
+        "nome": "Noleggio racchetta",
+        "prezzo": 5,
+        "unitaMisura": "sessione"
+      },
+      {
+        "nome": "Palline (tubo da 3)",
+        "prezzo": 6,
+        "unitaMisura": "tubo"
+      },
+      {
+        "nome": "Lezione privata 1h (1 maestro + 1 giocatore)",
+        "prezzo": 50,
+        "unitaMisura": "ora"
+      },
+      {
+        "nome": "Lezione privata 1h (1 maestro + 2 giocatori)",
+        "prezzo": 65,
+        "unitaMisura": "ora"
+      },
+      {
+        "nome": "Corso di gruppo (4 lezioni mensili)",
+        "prezzo": 80,
+        "unitaMisura": "mese"
+      }
+    ]
+  }
+}

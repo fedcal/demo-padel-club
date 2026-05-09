@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Non ho mai giocato a padel. Posso iniziare da zero?",
+      "risposta": "Assolutamente sì! Offriamo corsi per principianti assoluti ogni settimana. Il primo approccio avviene in group clinic di 4-6 persone condotti dalla Maestra Sara. In alternativa, puoi prenotare una lezione privata per un'introduzione personalizzata con regole, tecnica base e posizionamento."
+    },
+    {
+      "domanda": "Posso noleggiare la racchetta al club?",
+      "risposta": "Sì, abbiamo un servizio noleggio racchette al costo di €5 a sessione. Disponiamo di racchette di diversi pesi e tipologie per tutti i livelli. Le palline (tubo da 3) sono disponibili all'acquisto al bar al costo di €6. Consigliamo di acquistare la propria racchetta dopo 4-5 sessioni per maggior comfort."
+    },
+    {
+      "domanda": "Come funzionano le partite di singolo? Il padel non si gioca sempre in doppio?",
+      "risposta": "Il padel tradizionale si gioca in doppio (4 giocatori). Tuttavia organizziamo ogni settimana sessioni di 'padel in singolo' su campo ridotto, un formato divertente per chi viene da solo o vuole allenarsi con maggior tocco di palla. Queste sessioni sono prenotabili dallo slot speciale 'Single Play'."
+    },
+    {
+      "domanda": "Quali tornei organizzate e come si partecipa?",
+      "risposta": "Organizziamo tornei interni mensili suddivisi per categorie (C/B/A) e un Open trimestrale aperto a tutti. Per partecipare è necessario essere soci del club (abbonamento attivo). Le iscrizioni ai tornei aprono 3 settimane prima sul nostro sito. Il ranking interno viene aggiornato dopo ogni torneo."
+    },
+    {
+      "domanda": "Esiste un sistema di ranking interno al club?",
+      "risposta": "Sì, teniamo un ranking interno aggiornato dopo ogni torneo ufficiale. Il ranking segue il sistema FIT (Federazione Italiana Tennis e Padel) con categorie da 1.1 a 4.3. I soci con abbonamento Pro e Unlimited ricevono il tesserino FIT incluso, utile anche per partecipare a tornei federali sul territorio."
+    },
+    {
+      "domanda": "Quali sono le regole per la prenotazione e la cancellazione?",
+      "risposta": "Le prenotazioni vanno effettuate almeno 2 ore prima. La cancellazione è gratuita fino a 4 ore prima dell'orario prenotato. Cancellazioni tardive o mancata presentazione vengono conteggiate come sessione consumata per i titolari di abbonamento, oppure addebitata €10 per i non abbonati."
+    },
+    {
+      "domanda": "I campi outdoor sono coperti in caso di pioggia?",
+      "risposta": "I campi outdoor non hanno copertura permanente. In caso di pioggia i campi outdoor vengono chiusi per sicurezza e la prenotazione viene spostata automaticamente su un campo indoor disponibile senza costi aggiuntivi. Se non ci sono indoor liberi, la prenotazione viene annullata e rimborsata integralmente."
+    },
+    {
+      "domanda": "Come posso diventare socio e quali sono i vantaggi?",
+      "risposta": "Puoi diventare socio scegliendo uno dei tre piani di abbonamento (Base €49, Pro €99, Unlimited €179 mensili) disponibili nella sezione Tariffe. La tessera socio include sconti sulle tariffe orarie, noleggio racchetta gratuito e accesso prioritario ai tornei. Il Piano Pro include anche i corsi di gruppo settimanali."
+    }
+  ]
+}

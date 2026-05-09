@@ -1,0 +1,108 @@
+{
+  "campi": [
+    {
+      "id": 1,
+      "nome": "Campo 1 — Blue",
+      "tipo": "indoor",
+      "superficie": "Erba sintetica certificata FIP",
+      "illuminazione": "LED professionale 600 lux",
+      "vetrate": true,
+      "tribunaBiglietti": false,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Campo di punta con pareti in vetro panoramico su tre lati. Illuminazione LED professionale per partite serali perfette."
+    },
+    {
+      "id": 2,
+      "nome": "Campo 2 — Green",
+      "tipo": "indoor",
+      "superficie": "Erba sintetica certificata FIP",
+      "illuminazione": "LED professionale 600 lux",
+      "vetrate": true,
+      "tribunaBiglietti": false,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Spazio ampio e luminoso, ideale per lezioni individuali con i nostri maestri FIT."
+    },
+    {
+      "id": 3,
+      "nome": "Campo 3 — Gold",
+      "tipo": "indoor",
+      "superficie": "Erba sintetica certificata FIP",
+      "illuminazione": "LED professionale 600 lux",
+      "vetrate": true,
+      "tribunaBiglietti": true,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Il campo principale con tribuna laterale da 30 posti. Utilizzato per tornei e campionati interni."
+    },
+    {
+      "id": 4,
+      "nome": "Campo 4 — Silver",
+      "tipo": "indoor",
+      "superficie": "Erba sintetica certificata FIP",
+      "illuminazione": "LED professionale 600 lux",
+      "vetrate": false,
+      "tribunaBiglietti": false,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Campo compatto con pareti in cemento e pannelli antirombo. Perfetto per allenamenti intensivi."
+    },
+    {
+      "id": 5,
+      "nome": "Campo 5 — Sole",
+      "tipo": "outdoor",
+      "superficie": "Erba sintetica all-weather FIP",
+      "illuminazione": "LED perimetrale 500 lux",
+      "vetrate": true,
+      "tribunaBiglietti": false,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Primo campo esterno con erba sintetica all-weather certificata. Piacevole nelle stagioni primaverili ed estive."
+    },
+    {
+      "id": 6,
+      "nome": "Campo 6 — Sky",
+      "tipo": "outdoor",
+      "superficie": "Erba sintetica all-weather FIP",
+      "illuminazione": "LED perimetrale 500 lux",
+      "vetrate": true,
+      "tribunaBiglietti": false,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Vista panoramica sul parco circostante. Il preferito dai clienti nelle serate estive."
+    },
+    {
+      "id": 7,
+      "nome": "Campo 7 — Wind",
+      "tipo": "outdoor",
+      "superficie": "Erba sintetica all-weather FIP",
+      "illuminazione": "LED perimetrale 500 lux",
+      "vetrate": false,
+      "tribunaBiglietti": false,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Campo esterno con pareti perimetrali miste. Ottimo per chi vuole migliorare il gioco in condizioni di vento."
+    },
+    {
+      "id": 8,
+      "nome": "Campo 8 — Arena",
+      "tipo": "outdoor",
+      "superficie": "Erba sintetica all-weather FIP",
+      "illuminazione": "LED professionale 600 lux",
+      "vetrate": true,
+      "tribunaBiglietti": true,
+      "dimensioni": "10m x 20m",
+      "capienza": 4,
+      "disponibile": true,
+      "descrizione": "Campo esterno principale con tribuna da 50 posti. Sede delle finali dei tornei Open del club."
+    }
+  ]
+}

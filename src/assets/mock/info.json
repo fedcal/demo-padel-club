@@ -1,0 +1,50 @@
+{
+  "ragioneSociale": "Padel Club Milano S.r.l.",
+  "nomeCommerciale": "Padel Club Milano",
+  "tagline": "8 campi indoor/outdoor — il padel a Milano",
+  "indirizzo": {
+    "via": "Via Ripamonti 120",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20141",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4408,
+    "lng": 9.1913
+  },
+  "contatti": {
+    "telefono": "+39 02 1234 5678",
+    "whatsapp": "+39 333 9876 543",
+    "email": "info@padelclubmilano.it",
+    "social": {
+      "instagram": "https://instagram.com/padelclubmilano_demo",
+      "facebook": "https://facebook.com/padelclubmilano_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "07:00 – 23:00",
+    "martedi": "07:00 – 23:00",
+    "mercoledi": "07:00 – 23:00",
+    "giovedi": "07:00 – 23:00",
+    "venerdi": "07:00 – 23:00",
+    "sabato": "08:00 – 22:00",
+    "domenica": "08:00 – 22:00"
+  },
+  "struttura": {
+    "campiTotali": 8,
+    "campiIndoor": 4,
+    "campiOutdoor": 4,
+    "spogliatoi": true,
+    "noleggioRacchette": true,
+    "vendutaPalle": true,
+    "barInterno": true,
+    "parcheggioGratuito": true,
+    "wifiGratuito": true,
+    "accessibileDisabili": true
+  },
+  "metaSeo": {
+    "title": "Padel Club Milano — 8 campi indoor/outdoor a Milano",
+    "description": "Centro padel con 8 campi a Milano. Tariffe orarie da €20, maestri FIT certificati, tornei mensili. Prenota il tuo campo online.",
+    "keywords": ["padel milano", "campi padel milano", "lezioni padel milano", "centro padel"]
+  }
+}
